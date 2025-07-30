@@ -47,3 +47,20 @@ The project builds a *Machine Learning model* to predict employee salaries based
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ROHIT02092005/IBM-AI-PBEL-Employee-Salary-Prediction.git
+2. Open EmployeSalaryPrediction.ipynb in Jupyter Notebook
+3. Install Dependencies:
+    pip install pandas numpy scikit-learn matplotlib
+
+📌 Course Information
+
+This project is part of the IBM AI PBEL Course (AI Professional Badge in Experiential Learning)
+Key skills demonstrated:
+	•	Data Analytics & Preprocessing
+	•	Machine Learning Model Building
+	•	Model Evaluation & Visualization
+✨ Author
+
+👤 Rohit Srivastava
+📧 Email: rohitsrivastava0209@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-srivastava-47b2aa292/
+⭐ “Open to internships and freelancing opportunities in Data Analytics and Machine Learning.”
