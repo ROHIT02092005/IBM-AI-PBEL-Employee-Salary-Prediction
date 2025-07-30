@@ -1,7 +1,5 @@
 # IBM-AI-PBEL-Employee-Salary-Prediction
 AI Project to predict employee salaries using machine learning
-# 🧠 IBM AI PBEL Project - Employee Salary Prediction  
-
 This repository contains my project submission for the *IBM AI PBEL Course*.  
 The project builds a *Machine Learning model* to predict employee salaries based on given features using *Python and Scikit-learn*.
 
