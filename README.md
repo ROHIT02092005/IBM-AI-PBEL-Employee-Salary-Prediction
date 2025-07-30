@@ -63,5 +63,4 @@ Key skills demonstrated:
 👤 Rohit Srivastava
 📧 Email: rohitsrivastava0209@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-srivastava-47b2aa292/
-
 ⭐ “Open to internships and freelancing opportunities in Data Analytics and Machine Learning.”
