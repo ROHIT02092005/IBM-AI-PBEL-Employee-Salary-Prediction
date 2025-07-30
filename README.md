@@ -50,6 +50,7 @@ The project builds a *Machine Learning model* to predict employee salaries based
 2. Open EmployeSalaryPrediction.ipynb in Jupyter Notebook
 3. Install Dependencies:
     pip install pandas numpy scikit-learn matplotlib
+   
 
 📌 Course Information
 
